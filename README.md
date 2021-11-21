@@ -1,4 +1,4 @@
-![Banner do perfil](https://i.ibb.co/JtkXqQW/teste.png)
+![Banner do perfil](https://i.ibb.co/Qr1j6TH/Banner-README.png)
 
 # 🙋‍♂️ Sobre mim
 Hello World, Meu nome é Daniel de Souza silva, nasci em Vila Velha/ES e sou Desenvolvedor WEB, gosto de: `pensar em soluções complexas de um jeito facil, técnologias, ferramentas, e metodologias modernas.`
