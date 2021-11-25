@@ -2,7 +2,7 @@
 # 🙋‍♂️ Sobre mim
 Hello World, Meu nome é Daniel de Souza silva, nasci em Vila Velha/ES e sou Desenvolvedor WEB, gosto de: `pensar em soluções complexas de um jeito facil, técnologias, ferramentas, e metodologias modernas.`
 Hoje atuo muito no PHP, então é uma liguagem que estou bem habituado, mas não visto uma camisa de uma linguagem especifica.
-Já passei por empresas como Consys, Openmanager, VeltenLog, Queremos outras mais. Cursei Tecnologia da Informação em Serra-ES no ano de 2014/2015, mas curiosamente, não foi meu primeiro encontro com a técnologia, eu já criava jogos e programava com minha maneira própria de aprender, posteriormente eu também fiz uma faculdade em Análise e desenvolvimento de sistemas.
+Já passei por empresas como Consys, Openmanager, VeltenLog, Queremos outras mais. Cursei Tecnologia da Informação em Serra-ES no ano de 2014/2015 e posteriormente ADS (Análise e Desenvolvimento de Sistemas), mas curiosamente, não foi meu primeiro encontro com a técnologia, eu já criava jogos e programava com minha maneira própria de aprender, posteriormente eu também fiz uma faculdade em Análise e desenvolvimento de sistemas.
 
 Eu gosto de trabalhar em equipe e procuro ao maximo ser comunicativo. No meu tempo livre, gosto ficar com minha familia meu filhe Hendrick e minha esposa Sheila ou amigos da mesma area.
 # 💻 Conhecimentos/Habilidades
